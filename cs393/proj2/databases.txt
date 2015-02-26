@@ -1,0 +1,4 @@
+children kids
+senior student
+pers pers
+wcu_student student

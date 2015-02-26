@@ -1,0 +1,13 @@
+Nick Wilson
+
+python ver 2.7.
+and to run it should be
+python Topological.py <input.txt>
+
+input text should be the form "somecharacter space somecharacter"
+ex
+
+a b
+c d
+d a
+

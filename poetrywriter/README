@@ -1,0 +1,16 @@
+Nick Wilson
+9.27.13
+cs351
+
+python version 2.7.3 the version installed on agora
+
+<usage>
+python PoetryWriter.py <textfile> <numStanzas> <numLines> <numWords>
+
+Special note
+I changed the color of the text output for the usage message and the generated
+poem. It made it easier for me to read the results. If this presents a problem
+lines 148 and 149 can be commented out and line 150 can be uncommented
+
+For the usage message, comment out lines 188 through 191 and uncomment line
+192
